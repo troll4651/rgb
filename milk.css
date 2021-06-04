@@ -1,0 +1,41 @@
+.games {
+    color: cornsilk;
+    background-color: crimson;
+}
+
+.bruh {
+    color: cornsilk;
+    background-color: orange;
+}
+
+.XD {
+    color: cornsilk;
+    background-color: yellow;
+}
+
+.dance {
+    color: cornsilk;
+    background-color: blue;
+}
+
+.haha {
+    color: cornsilk;
+    background-color: indigo;
+}
+
+.sleep {
+    #03256C
+}
+
+.dont {
+    color: cornsilk;
+    background-color: green;
+}
+
+p.arial-font {
+    font: 14px arial, sans-serif;
+}
+
+p.georgia-font {
+    font: italic bold 16px/32px Georgia, serif;
+}
